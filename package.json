@@ -23,7 +23,7 @@
     "quivero-api": "^6.1.0"
   },
   "devDependencies": {
-    "eslint": "9.15.0",
+    "eslint": "9.20.0",
     "eslint-config-airbnb-base": "15.0.0",
     "eslint-nibble": "8.1.0",
     "eslint-plugin-import": "2.31.0"
